@@ -47,3 +47,31 @@ For example if want my factions to be [Chartreuse RGB(127,255,0)](https://www.w3
       <li>(255,127,80)</li>
     </colorSpectrum>
 ```
+## Pre-made icons `![alt text]()`
+
+
+![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/acid-tube.png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/acid-blob.png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/acid.png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/aerodynamic-harpoon.png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/alien-skull.png?raw=true)
+
+![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/american-shield%20(1).png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/american-shield.png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/anarchy.png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/animal-hide.png?raw=true)![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/ankh.png?raw=true)
+
+![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/anubis.png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/architect-mask.png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/armoured-shell.png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/artificial-intelligence.png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/at-sea.png?raw=true)
+
+![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/atom.png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/atomic-slashes.png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/automatic-sas.png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/backbone-shell.png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/ball-glow%20(1).png?raw=true)
+
+![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/ball-glow.png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/barbed-coil.png?raw=true)![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/barbed-star.png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/barbed-sun.png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/barbed-wire.png?raw=true)
+
+![alt text]() ![alt text]() ![alt text]() ![alt text]() ![alt text]()
+
+![alt text]() ![alt text]() ![alt text]() ![alt text]() ![alt text]()
+
+![alt text]() ![alt text]() ![alt text]() ![alt text]() ![alt text]()
+
+![alt text]() ![alt text]() ![alt text]() ![alt text]() ![alt text]()
+
+![alt text]() ![alt text]() ![alt text]() ![alt text]() ![alt text]()
+
+![alt text]() ![alt text]() ![alt text]() ![alt text]() ![alt text]()
+
+![alt text]() ![alt text]() ![alt text]() ![alt text]() ![alt text]()
+
+![alt text]() ![alt text]() ![alt text]() ![alt text]() ![alt text]()
