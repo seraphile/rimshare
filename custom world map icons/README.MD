@@ -1,6 +1,8 @@
 # Custom World Map Icons
 These images are for customized world map icons for your mod-made factions.
 
+![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/customiconexample.png?raw=true)
+###### *Example: [Apini playable race mod](https://ludeon.com/forums/index.php?topic=31076.0)*
 
 ## Credits
 Source: [game-icons.net](game-icons.net)
