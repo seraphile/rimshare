@@ -6,7 +6,9 @@ These images are for customized world map icons for your mod-made factions.
 
 ## Credits
 Author: Sera
+
 Pre-made Icons: [Rimshare](https://github.com/seraphile/rimshare/tree/master/custom%20world%20map%20icons) Edited by *Sera*
+
 Icons Source: [game-icons.net](game-icons.net)
 
 
