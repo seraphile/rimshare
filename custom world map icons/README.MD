@@ -20,6 +20,8 @@ If your icon texture is named `colony.png` and is in the `icon` folder in your T
 ```xml
 <expandingIconTexture>icon/colony</expandingIconTexture>
 ```
+**Remember:** file paths are *case sensitive.*
+
 ### Colours
 If you want your texture to be coloured in specific colours utilize this field
 ```xml
