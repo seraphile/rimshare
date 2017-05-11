@@ -42,6 +42,7 @@ For example if want my factions to be [Chartreuse RGB(127,255,0)](https://www.w3
     </colorSpectrum>
 ```
 This will result in the icons being coloured at random from a spectrum between those two colours.
+
 ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/examplegradient1.png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/examplegradient2.png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/examplegradient3.png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/examplegradient4.png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/examplegradient5.png?raw=true)
 
 ## Pre-made icons
