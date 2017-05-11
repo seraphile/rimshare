@@ -5,9 +5,11 @@ These images are for customized world map icons for your mod-made factions.
 ###### *Example: [Apini playable race mod](https://ludeon.com/forums/index.php?topic=31076.0)*
 
 ## Credits
-Source: [game-icons.net](game-icons.net)
+Author: Sera
+Pre-made Icons: [Rimshare](https://github.com/seraphile/rimshare/tree/master/custom%20world%20map%20icons) Edited by *Sera*
+Icons Source: [game-icons.net](game-icons.net)
 
-Edited by *Sera*
+
 
 ## How to use
 Put the icons in your `Textures` folder for your mod
