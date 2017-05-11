@@ -21,9 +21,9 @@ In the factions def,find these fields:
 <homeIconPath></homeIconPath>
 <expandingIconTexture></expandingIconTexture>
 ```
-Fill in these fields with the file path for your icons.
+`<expandingIconTexture>` is the texture which shows normally on the world map, and `<homeIconPath>` is the texture that appears when you zoom into the map.
 
-For example, if your icon texture is named `colony.png` and is in the `icon` folder in your Textures folder, the filled in field would look like this:
+If your icon texture is named `colony.png` and is in the `icon` folder in your Textures folder, the filled in field would look like this:
 ```xml
 <expandingIconTexture>icon/colony</expandingIconTexture>
 ```
