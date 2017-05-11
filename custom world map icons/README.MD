@@ -41,8 +41,10 @@ For example if want my factions to be [Chartreuse RGB(127,255,0)](https://www.w3
       <li>(255,127,80)</li>
     </colorSpectrum>
 ```
-## Pre-made icons
+This will result in the icons being coloured at random from a spectrum between those two colours.
+![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/examplegradient1.png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/examplegradient2.png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/examplegradient3.png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/examplegradient4.png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/examplegradient5.png?raw=true)
 
+## Pre-made icons
 
 ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/acid-tube.png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/acid-blob.png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/acid.png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/aerodynamic-harpoon.png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/alien-skull.png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/american-shield%20(1).png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/american-shield.png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/anarchy.png?raw=true) ![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/animal-hide.png?raw=true)![alt text](https://github.com/seraphile/rimshare/blob/master/custom%20world%20map%20icons/ankh.png?raw=true)
 
