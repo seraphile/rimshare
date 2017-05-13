@@ -1,5 +1,5 @@
 # Rimshare
-Open source rimworld graphic resources & wiki for modders.
+Open source rimworld graphic resources & [wiki](https://github.com/seraphile/rimshare/wiki) for modders.
 Feel free to use any image here for your own modding projects.
 
 
